@@ -1,0 +1,28 @@
+---
+layout: page
+permalink: /education/index.html
+title: Education
+---
+
+# Education
+---
+**The University of Hong Kong, Hong Kong (04/2014-03/2018)**
+- Ph.D., Department of Electrical and Electronic Engineering
+- Supervisors: Prof. Lijun Jiang Prof. Sheng Sun
+
+**Queen Mary, University of London, United Kingdom (05/2017-10/2017)**
+- Academic Visitor, School of Electronic Engineering and Computer Science
+- Supervisor: Prof. Yang Hao
+
+**The University of Hong Kong, Hong Kong (09/2012-08/2013)**
+- M.Sc. (Distinction,top 5%), Department of Electrical and Electronic Engineering
+- Supervisor: Prof. Lijun Jiang
+
+**The University of Birmingham,United Kingdom
+(09/2011-07/2012)**
+- B.Eng. (1st-Class Honours), School of Electronic, Electrical and Systems Engineering
+- Supervisor: Dr. Frederick Huang
+
+**Huazhong University of Science and Technology,China (09/2008-09/2011)**
+- B.Eng., School of Electronic Science and Technology
+- Supervisor: Prof. Daoli Zhang

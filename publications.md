@@ -1,0 +1,42 @@
+---
+layout: page
+permalink: /publications/index.html
+title: Publications
+---
+
+# Publications
+---
+## Journal Papers
+1. Z. Lan, **M. L. N. Chen**, J.W. You, andW. E. I. Sha, “[Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501),” *Physical Review A*, vol. 107, no. 4, pp. L041501, Apr. 2023.
+2. **M. L. N. Chen**, Y. Bi, H.-C. Chan, Z. Lin, S. Ma, and S. Zhang, “[Anomalous electromagnetic tunneling in bianisotropic $\varepsilon$-μ-zero media](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901),” *Physical Review Letters*, vol. 129, no. 12, pp. 123901, Sep. 2022. (Editors’ Suggestion)
+3. Z. Lan, **M. L. N. Chen**, F. Gao, S. Zhang, and W. E. I. Sha, “[A brief review of topological photonics in one, two, and three dimensions](https://www.sciencedirect.com/science/article/pii/S2405428322000077),” *Reviews in Physics*, vol. 9, pp. 100076, Aug. 2022.
+4. Z. Zhang, Z. Lan, Y. Xie, **M. L. N. Chen**, W. E. I. Sha, and Y. Xu,, “[Bound Topological Edge State in the Continuum for All-Dielectric Photonic Crystals](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.064036),” *Physical Review Applied*, vol. 16, no. 6, pp. 064036, Dec. 2021.
+5. S. S. A. Yuan, J.Wu, **M. L. N. Chen**, Z. Lan, L. Zhang, S. Sun, Z. Huang, X. Chen, S. Zheng, L. J. Jiang, X. Zhang, and W. E. I. Sha, “[Approaching the Fundamental Limit of Orbital-Angular-Momentum Multiplexing Through a Hologram Metasurface](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.064042),” *Physical Review Applied*, vol. 16, no. 6, pp. 064042, Dec. 2021.
+6. **M. L. N. Chen**, L. J. Jiang, S. Zhang, R. Zhao, Z. Lan, and W. E. I. Sha, “[Comparative study of Hermitian and non-Hermitian topological dielectric photonic crystals](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.033501),” *Physical Review A*, vol. 104, no. 3, pp. 033501, Sep. 2021.
+7. Y. Zhang, **M. L. N. Chen**, and L. J. Jiang, “[Extraction of the characteristics of vortex beams with a partial receiving aperture at arbitrary locations](https://iopscience.iop.org/article/10.1088/2040-8986/ac0ff3/meta),” *Journal of Optics*, vol. 23, no. 8, pp. 085601, July. 2021.
+8. **M. L. N. Chen**, L. J. Jiang, Z. Lan, and W. E. I. Sha, “[Coexistence of pseudospin- and valley-Hall-like edge states in a photonic crystal with C3v symmetry](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043148),” *Physical Review Research*, vol. 2, no. 4, pp. 043148, Oct. 2020.
+9. **M. L. N. Chen**, L. J. Jiang, Z. Lan, and W. E. I. Sha, “[Local Orbital-Angular-Momentum Dependent Surface States with Topological Protection](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-10-14428&id=431326),” *Optics Express*, vol. 29, no. 10, pp. 14428-14435, May. 2020.
+10.  R. Zhao, G. D. Xie, **M. L. N. Chen**, Z. Lan, Z. Huang, and W. E. I. Sha, “[First-Principle Calculation of Chern Number in Gyrotropic Photonic Crystals](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-4-4638&id=426551),” *Optics Express*, vol. 28, no. 4, pp. 4638-4649, Feb. 2020.
+11.  **M. L. N. Chen**, L. J. Jiang, Z. Lan, and W. E. I. Sha, “[Pseudospin-Polarized Topological Line Defects in Dielectric Photonic Crystals](https://ieeexplore.ieee.org/abstract/document/8805239),” *IEEE Transactions on Antennas and Propagation*, vol. 68, no. 1, pp. 609-613, Jan. 2020.
+12.  Y. Zhang, **M. L. N. Chen**, and L. J. Jiang, “[Analysis of Electromagnetic Vortex Beams Using Modified Dynamic Mode Decomposition in Spatial Angular Domain](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-20-27702&id=418887),” *Optics Express*, vol. 27, no. 20, pp. 27702-27711, Sep. 2019.
+13.  **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Quasi-Continuous Metasurfaces for Orbital Angular Momentum Generation,” *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 3, pp. 477-481, Mar. 2019.
+14.  **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Generation of Orbital Angular Momentum by a Point Defect in Photonic Crystals,” *Physical Review Applied*, vol. 10, no. 1, pp. 014034, Jul. 2018.
+15.  **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Orbital Angular Momentum Generation and Detection by Geometric-Phase Based Metasurfaces,” *Applied Sciences*, vol. 8, pp. 362, Mar. 2018 (Featured Papers)
+16.  **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Detection of Orbital Angular Momentum with Metasurface at Microwave Band,” *IEEE Antennas and Wireless Propagation Letters*, vol. 17, no. 1, pp. 110-113, Jan. 2018.
+17.  **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Ultrathin Complementary Metasurface for Orbital Angular Momentum Generation at Microwave Frequencies,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 1, pp. 396-400, Jan. 2017. (ESI Highly Cited Paper)
+18.  **M. L. N. Chen**, L. J. Jiang, W. E. I. Sha, W. C. H. Choy, and T. Itoh, “Polarization Control by Using Anisotropic 3-D Chiral Structures,” *IEEE Transactions on Antennas and Propagation*, vol. 64, no. 11, pp. 4687-4694, Nov. 2016.
+19.  **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Artificial Perfect Electric Conductor-Perfect Magnetic Conductor Anisotropic Metasurface for Generating Orbital Angular Momentum of Microwave with Nearly Perfect Conversion Efficiency,” *Journal of Applied Physics*, vol. 119, no. 6, pp. 064506, Feb. 2016.
+
+## Book Chapters
+1. **M. L. N. Chen**, X. Y. Z. Xiong, W. E. I. Sha, and L. J. Jiang, “Orbital Angular Momentum Generation, Detection, and Angular Momentum Conservation with Second Harmonic Generation,” *Electromagnetic Vortices: Wave Phenomena and Engineering Applications*, Chapter 8, pp. 245-267, Zhi Hao Jiang and Douglas H. Werner (Ed.), ISBN: 978111966294, Wiley, 2021.
+2. X. Zhang, S. Zheng, W. E. I. Sha, L. J. Jiang, X. Xiong, Z. Zhu, Z. Wang, Y. Chen, J. Zheng, X. Wang, and **M. L. N. Chen**, “Orbital Angular Momentum Based Structured Radio Beams and its Applications,” *Electromagnetic Vortices: Wave Phenomena and Engineering Applications*, Chapter 9, pp. 271-293, Zhi Hao Jiang and Douglas H. Werner (Ed.), ISBN: 978111966294, Wiley, 2021.
+3. **M. L. N. Chen**, L. Chen, X. Dang, M. Li, L. J. Jiang, and W. E. I. Sha, “Metamaterial or Metastructural Thin Films for EM Wave Control,” *Inorganic and Organic Thin Films: Fundamentals, Fabrication and Applications*, Chapter 7, pp. 221-255, Yujun Song (Ed.), ISBN: 978-3-527-34497-0, Wiley, 2021.
+
+## Selected Conference Papers
+1. **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Tunable Topological Photonic Crystal Waveguides,” *2021 International Applied Computational Electromagnetics Society Symposium in China (ACES-China 2021)*, Chengdu, China, July. 2021. (Invited Talk)
+2. **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Generation of Orbital Angular Momentum by Quasi-continuous Metasurfaces and Photonic Crystals: from High Purity to Easy Integration,” *Cross Strait Quad-Regional Radio Science and Wireless Technology Conference*, Taiyuan, China, Jul. 2019. (Invited Talk)
+3. **M. L. N. Chen** and L. J. Jiang, “Orbital Angular Momentum Generation Using Composite Quasi-Continuous Metasurfaces with a Perfect Efficiency,” *Progress In Electromagnetics Research Symposium*, Toyama, Japan, Aug. 2018. (Invited Talk, 3rd Place of Best Student Paper)
+4. **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Orbital Angular Momentum Detection Using Geometric-phase Based Metasurfaces,” *Progress In Electromagnetics Research Symposium*, Toyama, Japan, Aug. 2018. (Invited Talk)
+5. **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Novel Complementary Metasurfaces for the Orbital Angular Momentum Generation,” *2017 International Applied Computational Electromagnetics Society (ACES) Symposium*, Firenze, Italy, Mar. 2017. (3rd Place of Best Student Paper)
+6. **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Orbital Angular Momentum Generation for Microwaves by Composite PEC-PMC Metasurfaces,” *the 17th IEEE MACAU/HK AP/MTT Postgraduate Conference*, Macau, Sep. 2016. (3rd Place of Best Student Paper in AP Session)
+7. **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Orbital Angular Momentum Generation Using a Bi-Layered Complementary Metasurface with a High Conversion Efficiency,” *Progress In Electromagnetics Research Symposium*, Shanghai, China, Aug. 2016. (Invited Talk)
