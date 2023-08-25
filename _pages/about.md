@@ -14,8 +14,6 @@ Here is Dr. CHEN Menglin’s [CV](/files/CV-Menglin.pdf).
 
 <br>
 
----
-
 ## Open for Applications
 
 Dr CHEN is looking actively for Ph.D., Research Associate and Postdoctoral candidates. The detailed requirements are listed below.
@@ -34,8 +32,6 @@ Dr CHEN is looking actively for Ph.D., Research Associate and Postdoctoral candi
 2. Have experience in antenna and RF circuit development and design
 3. Familiar with electromagnetic simulation software, such as ANSYS HFSS, CST, ADS and COMSOL
 4. Familiar with MATLAB programming
-
-
 
 - **Postdoctoral fellow (meet at least one of 3, 4, and 5)**
 
