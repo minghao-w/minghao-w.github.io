@@ -85,8 +85,8 @@ author:
   bio              : "Research Assistant Professor, DE623, PolyU"
   location         : "Hong Kong"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BPc_pcAAAAAJ&hl=zh-CN&oi=ao"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : menglin.chen@polyu.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -209,15 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _research
+  # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true
   # _publications
   - scope:
       path: ""
