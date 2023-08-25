@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Award and Certificate"
+permalink: /group/
+author_profile: true
+---
+
+**Young Scientist Award (2023)** 
+&nbsp; &nbsp; *Awarded by the Photonics and Electromagnetics Research Symposium (PIERS)in Prague,Czech Republic*
+
+**Young Scientist Award (2021)** 
+&nbsp; &nbsp; *Awarded by the International Applied Computational Electromagnetics Society Symposium in Chengdu,China (ACES-China)*
+
+**Best Student Paper Award (2018)**
+&nbsp; &nbsp; *Awarded by the Photonics and Electromagnetics Research Symposium (PIERS)in Toyama,Japan*
+
+**Best Student Paper Award (2017)**
+&nbsp; &nbsp; *Awarded by the International Applied Computational Electromagnetics Society Symposium (ACES)in Firenze,Italy*
+
+**Best Student Paper Award (2016)**
+&nbsp; &nbsp; *Awarded by the 17th IEEE MACAU/HK AP/MTT Postgraduate Conference in Macau SAR,China*
+
+**Certificate of Merit (2014)**
+&nbsp; &nbsp; *Awarded by the Hong Kong U-21 IoT Awards*
+
+</br>
+</br>
+</br>
+
+
+(Lastest Update: 24th August 2023)
