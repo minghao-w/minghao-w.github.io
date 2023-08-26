@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Minghao WANG"
 description              : &description "Assistant Professor"
-url                      : https://drmhwang.github.io/mhwang.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drmhwang.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://drmhwang.github.io/mhwang.github.io/"
+repository               : "https://mhwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
