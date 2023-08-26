@@ -26,20 +26,6 @@ For example,
 
 The detailed recruitment requirements are listed as follows
 
-**<font color='DodgerBlue'>Notice 1: PhD</font>** for undergraduate or master students for 2024/2025 academic year (2024/2025學年招收博士研究生，包括直博、普博) is open for application (DDL of 1st batch: October 31, 2024; DDL of 2nd batch: February 28, 2025), check the [notice](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) (20,000MOP/Month) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/) (12,500MOP/Month). Some other links: [推薦免試](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant); [UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (Imperial College London + University of Macau).
-
-
-**<font color='DodgerBlue'>Notice 2: Postdoc</font>** for Ph. D graduates from well-known universities who have obtained a Ph. D degree (no more than 3 years or expected to obtain Ph. D degree within 3 months). Universities recognized as the top 300 in the world or 985/211/double top universities are preferred. Please illustrate the excellent research experience, including awards, articles, patents, etc. The postdoc position keeps long-term recruitment (**長期招聘**). (25,000~40,000MOP/month)
-
-**<font color='DodgerBlue'>Notice 3: ZUMRI</font>** We are recruiting full-time Research Scientist, Postdoctoral Scholar and Engineers to join our R&D group at [Zhuhai UM Science & Technology Research Institute](http://www.zumri.cn/). 我們在[珠海澳大科技研究院](http://www.zumri.cn/)智慧城市研發中心設立產學研團隊，正招收全職研究員、博士後、工程師等，提供极具竞争力的薪酬和良好的科研与工作条件，歡迎發送簡歷咨詢或直接網上[申請](http://www.zumri.cn/recruitData/12_13_32.html)！
-
-
-<br>
-
-
-
-Dr CHEN is looking actively for Ph.D., Research Associate and Postdoctoral candidates. The detailed requirements are listed below.
-
 - **PhD candidates**
 
 1. Have comprehensive knowledge of electromagnetic theory and RF circuit development and design
@@ -63,3 +49,15 @@ Dr CHEN is looking actively for Ph.D., Research Associate and Postdoctoral candi
 4. Familiar with electromagnetic simulation software, such as ANSYS HFSS, CST, ADS and COMSOL
 5. Familiar with MATLAB programming
 6. Excellent writing skills in both Chinese and English
+
+
+**<font color='DodgerBlue'>Notice 1: PhD</font>** for undergraduate or master students for 2024/2025 academic year (2024/2025學年招收博士研究生，包括直博、普博) is open for application (DDL of 1st batch: October 31, 2024; DDL of 2nd batch: February 28, 2025), check the [notice](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/) and the [Compulsory English Proficiency Requirement](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/#:~:text=An%20IELTS*%20overall%20score%20of,each%20academic%20unit%20for%20details.). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) (20,000MOP/Month) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/) (12,500MOP/Month). Some other links: [推薦免試](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant); [UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (Imperial College London + University of Macau).
+
+**<font color='DodgerBlue'>Notice 2: Postdoc</font>** for Ph. D graduates from well-known universities who have obtained a Ph. D degree (no more than 3 years or expected to obtain Ph. D degree within 3 months). Universities recognized as the top 300 in the world or 985/211/double top universities are preferred. Please illustrate the excellent research experience, including awards, articles, patents, etc. The postdoc position keeps long-term recruitment (**長期招聘**). (25,000~40,000MOP/month)
+
+**<font color='DodgerBlue'>Notice 3: ZUMRI</font>** We are recruiting full-time Research Scientist, Postdoctoral Scholar and Engineers to join our R&D group at [Zhuhai UM Science & Technology Research Institute](http://www.zumri.cn/). 我們在[珠海澳大科技研究院](http://www.zumri.cn/)智慧城市研發中心設立產學研團隊，正招收全職研究員、博士後、工程師等，提供极具竞争力的薪酬和良好的科研与工作条件，歡迎發送簡歷咨詢或直接網上[申請](http://www.zumri.cn/recruitData/12_13_32.html)！
+
+
+<br>
+
+
