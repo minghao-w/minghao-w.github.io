@@ -14,6 +14,8 @@ redirect_from:
 - Microgrids
 - Internet of Things Technology in Energy Engineering
 
+# Open for Applications
+
 Dr WANG is now recruiting Ph.D. students, research associates, and postdoc fellows together with the rector [Prof. Yonghua SONG](https://rto.um.edu.mo/biography/). Please send your CV to [mhwang@um.edu.mo](mailto:mhwang@um.edu.mo) and set your title as [research interests], position of interests, school of graduation and highest degree acquired, name. 
 
 For example, 
@@ -34,7 +36,7 @@ The detailed recruitment requirements are listed as follows
 
 <br>
 
-# Open for Applications
+
 
 Dr CHEN is looking actively for Ph.D., Research Associate and Postdoctoral candidates. The detailed requirements are listed below.
 
