@@ -16,7 +16,8 @@ redirect_from:
 
 Dr WANG is now recruiting Ph.D. students, research associates, and postdoc fellows together with the rector [Prof. Yonghua SONG](https://rto.um.edu.mo/biography/). Please send your CV to [mhwang@um.edu.mo](mailto:mhwang@um.edu.mo) and set your title as [research interests], position of interests, school of graduation and highest degree acquired, name. For example, 
 
-[Microgrid], Phd, Zhejiang University M.Sc., He Yufei or [微电网]，博士生，浙江大学硕士，何宇飞. 
+[Microgrid], Phd, Zhejiang University M.Sc., He Yufei 
+[微电网]，博士生，浙江大学硕士，何宇飞. 
 
 The detailed recruitment requirements are listed as follows
 <br>
