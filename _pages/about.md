@@ -32,7 +32,6 @@ The detailed recruitment requirements are listed as follows
 **<font color='DodgerBlue'>Notice 3: ZUMRI</font>** We are recruiting full-time Research Scientist, Postdoctoral Scholar and Engineers to join our R&D group at [Zhuhai UM Science & Technology Research Institute](http://www.zumri.cn/). 我們在[珠海澳大科技研究院](http://www.zumri.cn/)智慧城市研發中心設立產學研團隊，正招收全職研究員、博士後、工程師等，提供极具竞争力的薪酬和良好的科研与工作条件，歡迎發送簡歷咨詢或直接網上[申請](http://www.zumri.cn/recruitData/12_13_32.html)！
 
 
-
 <br>
 
 # Open for Applications
