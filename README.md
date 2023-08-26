@@ -1,7 +1,7 @@
 # Manual
 - [更改Tabs](/_data/navigation.yml)
 - 修改页面内容(路径：xxx.github.io/_pages/)
-  1. 修改主页，</_pages/about.md>
+  1. 修改主页，[/_pages/about.md](/_pages/about.md)
   2. 修改publications，[/_pages/publications.md](/_pages/publications.md)
   3. ... ...
 - [修改侧边栏信息](/_config.yml) （参考：https://archive.is/3TPas）
