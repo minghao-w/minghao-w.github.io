@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Minghao WANG"
 description              : &description "Assistant Professor"
-url                      : https://menglin-c.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drmhwang.github.io/mhwang.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://drmhwang.github.io/mhwang.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "CHEN Menglin"
+  name             : "Minghao WANG"
   avatar           : "Chen.jpg"
-  bio              : "Research Assistant Professor, DE623, the Hong Kong Polytechnic University"
-  location         : "Hong Kong"
+  bio              : "Assistant Professor, N21-2014C, the University of Macau"
+  location         : "Macau"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BPc_pcAAAAAJ&hl=zh-CN&oi=ao"
-  email            : "menglin.chen@polyu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=mdGszvAAAAAJ&hl"
+  email            : "mhwang@um.edu.mo"
   researchgate     :  "https://www.researchgate.net/profile/Menglin-Ln-Chen"
   uri              : 
   bitbucket        :
