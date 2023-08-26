@@ -5,9 +5,9 @@ permalink: /grants/
 author_profile: true
 ---
 
--	基于拓扑电磁结构的波导器件多物理理论及应用研究
-Jan. 2024 - Dec. 2026,  **NSFC (青年科学基金项目)**, 
-RMB$ 300,000, **PI**
+**Projects as Principal Investigator or Co-Principal Investigator**
 
--	Artificial materials based novel devices by engaging topological waves in next-generation communication systems
-Jun. 2023 – Jun. 2025, **PolyU Start-Up Fund**, HK$ 250,000, **PI**
+1.	**National Natural Science Foundation of China**， Converter Topology Design and Control of Li-ion Battery Energy Storage System Based on Depolarization Theory, 01/2022 to 12/2024, RMB$ 300,000
+2.	**Innovation and Technology Support Programme (HKSAR)**， A Reliable Battery Converter for Ultra-Fast Charging and Discharging of Next-Generation Electric Vehicles, 06/2022 to 06/2024, HKD$ 1,235,100
+3.	**Guangdong Basic and Applied Basic Research Fund (HKSAR)**， Intelligent Monitoring and Maintenance Platform for Second-life Battery Energy Storage Systems based on Artificial Intelligence and Internet of Things Technologies, 01/2023 to 1/2026, HKD$ 100,000
+4.	**Environment and Conservation Fund & Woo Wheelock Green Fund (HKSAR)**， Research on Reinforcement Learning Decision Theory and Distributed Optimal Control for Elastic DSM of Interconnected Microgrid, 01/2023 to 12/2025, RMB$ 499,000
