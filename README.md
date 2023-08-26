@@ -10,10 +10,12 @@
   2. 在md文件中引用，例如```[xxx](/files/xxx.pdf)```
 - 更改图片同理，图片路径在 /images/
 
-修改步骤：
+## 修改步骤：
 1. fork repo，重命名为：`自己的github账户名.github.io`。例如 `zhangsan.github.io`
-2. 修改替换`_config.yml`文件为自己的信息
-3. 在 `/_pages/`文件夹下编辑每一页的内容
+2. 上传和替换照片、pdf等附件，照片建议保存在`/images/`路径下，pdf保存在`/files/`路径下
+3. 修改替换`_config.yml`文件为自己的信息，参考<http://archive.is/3TPas>
+4. 修改侧边的邮件名为自己的邮件地址，例如: `email_label                : "menglin.chen@polyu.edu.hk"` ，文件链接[/_data/ui_text.yml](_data/ui-text.yml)
+5. 在 `/_pages/`文件夹下编辑每一页的内容
 
 # Origin Documentation
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
