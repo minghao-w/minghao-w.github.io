@@ -14,18 +14,8 @@ redirect_from:
 - Microgrids
 - Internet of Things Technology in Energy Engineering
 
-Dr WANG is now recruiting Ph.D. students, research associates, and postdoc fellows together with [Prof. Yonghua SONG](https://rto.um.edu.mo/biography/)
+Dr WANG is now recruiting Ph.D. students, research associates, and postdoc fellows together with [Prof. Yonghua SONG](https://rto.um.edu.mo/biography/). Potential candidates can send your CV directly to [mhwang@um.edu.mo](mailto:mhwang@um.edu.mo). The detailed recruitment requirements are listed as follows
 <br>
-
-# News
-- **Aug. 2023**: Our paper “Coexistence of Large-area Topological Pseudospin and Valley States in a Triband Heterostructure System” is accepted by Optics Letters.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
-
-- **Jul. 2023**: I am honored to receive the PIERS Young Scientist Award. [[Link]](https://piers.org/awards/young-scientist-award.html)
-
-- **Apr. 2023**: Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by Physical Review A.  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
-
-- **Sep. 2022**: Our paper “Anomalous electromagnetic tunneling in bianisotropic ε-μ-zero media” is accepted by Physical Review Letters and selected as Editors’ Suggestion.   <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901>
-
 
 <br>
 
