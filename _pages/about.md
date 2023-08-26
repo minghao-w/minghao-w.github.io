@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**Dr WANG Minghao** received the Bachelor of Engineering from The Huazhong University of Science and Technology and The University of Birmingham in 2012, Master of Science and Doctor of Philosophy from The University of Hong Kong in 2013 and 2017 respectively. He was a Postdoctoral Research Fellow and later a Research Assistant Professor at the Hong Kong Polytechnic University from 2018 to 2023. He is currently an assistant professor with [the State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/research/smart-energy/), University of Macau. His research interests include 
+**Dr Minghao WANG** received the Bachelor of Engineering from The Huazhong University of Science and Technology and The University of Birmingham in 2012, Master of Science and Doctor of Philosophy from The University of Hong Kong in 2013 and 2017 respectively. He was a Postdoctoral Research Fellow and later a Research Assistant Professor at the Hong Kong Polytechnic University from 2018 to 2023. He is currently an assistant professor with [the State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/research/smart-energy/), University of Macau. His research interests include 
 
 - Power Electronics
 - Microgrids
 - Internet of Things Technology in Energy Engineering
 
+Dr WANG is now recruiting Ph.D. students, research associates, and postdoc fellows together with [Prof. Yonghua SONG](https://rto.um.edu.mo/biography/)
 <br>
 
 # News
