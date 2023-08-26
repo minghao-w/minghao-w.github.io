@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Dr Minghao WANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**Dr CHEN Menglin** is currently a research assistant professor at the Hong Kong Polytechnic University. She received the Bachelor of Engineering from The Huazhong University of Science and Technology and The University of Birmingham in 2012, Master of Science and Doctor of Philosophy from The University of Hong Kong (HKU) in 2013 and 2018 respectively. She was a Postdoctoral Research Fellow at HKU from 2018 to 2022. Dr CHEN received [the PIERS Young Scientist Award](https://piers.org/awards/young-scientist-award.html) in 2023, the ACES Young Scientist Award in 2021, and various student paper awards. Dr CHEN has so far published 19 top-tier journals (12 journals as the first author), 3 book chapters, and 20 conference papers. One of her first-author manuscripts published in Physical Review Letters was selected as “Editors’ Suggestion” in 2022. One of her first-author manuscripts was selected as “the ESI highly-cited paper (top 1%)” in 2019. Her research interests include (i) Advanced electromagnetics based interdisciplinary research, including those in microwave surface engineering, metasurfaces and photonic crystals, and (ii) Novel antenna and transmission line design and applications.
+**Dr WANG Minghao** received the Bachelor of Engineering from The Huazhong University of Science and Technology and The University of Birmingham in 2012, Master of Science and Doctor of Philosophy from The University of Hong Kong in 2013 and 2017 respectively. He was a Postdoctoral Research Fellow and later a Research Assistant Professor at the Hong Kong Polytechnic University from 2018 to 2023. He is currently an assistant professor with [the State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/research/smart-energy/), University of Macau. His research interests include 
+
+- Power Electronics
+- Microgrids
+- Internet of Things Technology in Energy Engineering
 
 <br>
 
