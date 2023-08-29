@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
-1.	J. Chen, Y. Zhao, **M. H. Wang**, K. Wang, Y. Hung and Z. Xu, “[Power Sharing and Storage-Based Regenerative Braking Energy Utilization for Sectioning Post in Electrifed Railways] (https://ieeexplore.ieee.org/document/10184322),” *IEEE Transactions on Transportation Electrifcation*, Early Access.
+1.	J. Chen, Y. Zhao, **M. H. Wang**, K. Wang, Y. Hung and Z. Xu, “[Power Sharing and Storage-Based Regenerative Braking Energy Utilization for Sectioning Post in Electrified Railways] (https://ieeexplore.ieee.org/document/10184322),” *IEEE Transactions on Transportation Electrification*, Early Access.
 2.	X. Xu, **M. H. Wang**, Z. Xu and Y. He, “[Generative adversarial network assisted stochastic photovoltaic system planning considering coordinated multi-timescale volt-var optimization in distribution grids] (https://www.sciencedirect.com/science/article/pii/S0142061523003642),” *International Journal of Electrical Power and Energy Systems*, Early Access.
 3.	S. Yan, J. Chen, **M. H. Wang**, Y. Yang and J. Rodriguez, “[A Survey on Model Predictive Control of DFIGs in Wind Energy Conversion Systems] (链接没找到),” *CSEE Journal of Power and Energy Systems*, Early Access.
 4.	H. Wu, Z. Xu, **M. H. Wang**, J. Zhao and X. Xu, “[Two-stage voltage regulation in power distribution system using graph convolutional network-based deep reinforcement learning in real time] (https://www.sciencedirect.com/science/article/pii/S0142061523002156),” *International Journal of Electrical Power and Energy Systems*, vol. 151, pp. 109158, 2023.
