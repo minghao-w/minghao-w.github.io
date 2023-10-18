@@ -14,5 +14,5 @@ author_profile: true
 5.	**Environment and Conservation Fund (HKSAR)**, 01/2023 to 12/2025, HKD$ 500,000
 6.	**Research Institute for Smart Energy (RISE) Strategic Supporting Scheme**, 01/2022 to 12/2023, HKD$ 500,000
 
-**Major COmpetitive Projects as Co-Investigator or Co-Principle Investigator**
+**Major Competitive Projects as Co-Investigator or Co-Principle Investigator**
 1. **The Hong Kong and Macau Joint Inter-Institutional Research Scheme, China Southern Power Grid Company Ltd.**, 07/2022 to 12/2024, RMB$ 3573,000
