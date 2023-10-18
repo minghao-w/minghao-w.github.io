@@ -56,7 +56,7 @@ We prioritize the research ability. Potential talents with remarkable RESEARCH t
 3. Familiar with power electronics, hardware coding and field test implementation.
 4. Familiar with power systems, optimization and simulation.
 5. Familiar with IoT, AI techniques, and cyber-physical systems.
-6. Excellent writing skills in both Chinese and English. (candidate with proposal drafting and project experience will be priotized)
+6. Excellent writing skills in both Chinese and English. (candidate with proposal drafting and project experience will be prioritized)
 
 **<font color='DodgerBlue'>Notice 2: Postdoc</font>** for Ph. D graduates from well-known universities who have obtained a Ph. D degree (no more than 3 years or expected to obtain Ph. D degree within 3 months). Universities recognized as the top 300 in the world or 985/211/double top universities are preferred. Please illustrate the excellent research experience, including awards, articles, patents, etc. The postdoc position keeps long-term recruitment (**長期招聘**). (25,000~40,000MOP/month). Please check other [UM Postdoctoral Fellow Program](https://rskto.um.edu.mo/umtp/#02), [澳門大學與中科院相關研究所成立的聯合實驗室聯合培養博士後項目](https://rskto.um.edu.mo/umtp/#05), and [“澳門大學―清華大學”聯合培養博士後項目](https://rskto.um.edu.mo/umtp/#04).
 
