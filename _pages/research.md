@@ -5,12 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-1. Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces and photonic crystals.
+1. Lithium-ion battery state estimation, diagnosis and maintenance.
 
 
-2. Exploration of topological electromagnetic effects and their applications in microwave/millimeter wave engineering.
+2. Power electronic converter design, control, and implementation.
 
 
-3. Novel antenna and transmission line design and applications.
+3. A-IoT based monitoring, state estimation, and management of energy systems.
+
+
+4. Urban power system control, coordination and optimization
+
+
+5. Integrated energy system management and coordination.
 
 
