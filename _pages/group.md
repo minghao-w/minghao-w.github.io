@@ -5,30 +5,27 @@ permalink: /group/
 author_profile: true
 ---
 
-## Research Staff
+## Ph.D. Students
 
-**Li Sijie** (Spring 2023-)
-- Ph.D., (Fall 2021 - ), Shanghai Jiao Tong University
-- B. Eng., (Fall 2017- Summer 2021)University of Electronic Science and Technology of China
+**CHAI Junwei** (Fall 2021-)
+- Ph.D. (Fall 2021- ) The Hong Kong Polytechnical University
+- M. Phil, Zhejiang University
+- B. Eng., Beijing Institute of Technology
 
-**Feng Jialin**
-- Ph.D., ( Fall 2017- ), Xi'an Jiaotong University
-- B. Eng., (Fall 2011-Summer 2015), Shaanxi Normal University
+**LI Zhan** (Fall 2021-)
+- Ph.D. (Fall 2021- ) The Hong Kong Polytechnical University
+- B. Eng., Zhejiang University
 
-**Zhou Rui** (RA: 2023.05.08) Hong Kong Polytechnic University
-- Ph.D., (Fall 2022 -2025 ), Central China Normal University 
-- M. Phil., (Fall 2019 -2022 ), Central China Normal University
-- B. Eng., (Fall 2015 - 2019), Zhengzhou Normal University
+**SU Xinyang** (Fall 2022-)
+- Ph.D. (Spring 2022- ) The Hong Kong Polytechnical University
+- B. Eng., Harbin Institute of Technology
 
-## Ph.D. Student
+**SU Xinyang** (Fall 2023-)
+- Ph.D. (Fall 2023- ) The Hong Kong Polytechnical University
+- M. Phil., Xi'an Jiaotong University (​Qian Xuesen Honors College)
+- B. Eng., Xi'an Jiaotong University
 
-**Li Yueyao** (Fall 2023-)
-- Ph.D., (Joint program 42601-FTD)
-  (Fall 2021- )Northwestern Polytechnical University
-- M. Phil, none
-- B. Eng., (Fall 2017-Spring 2021)Northwestern Polytechnical University
-
-**Zhang Xinyu** (Fall 2023-)
+**HOU Yu** (Fall 2023-)
 - Ph.D., (Collaborative program 42601-FTD)Eastern Institute of Technology
 - M. Phil,(Fall 2020 - Spring 2023)ShanghaiTech University
 - B. Eng.,(Fall 2015 - Spring 2019) Harbin Institute of Technology 
