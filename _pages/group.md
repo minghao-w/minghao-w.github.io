@@ -25,8 +25,9 @@ author_profile: true
 - M. Phil., Xi'an Jiaotong University (​Qian Xuesen Honors College)
 - B. Eng., Xi'an Jiaotong University
 
-**HOU Yu** (Fall 2023-)
-- Ph.D., (Collaborative program 42601-FTD)Eastern Institute of Technology
-- M. Phil,(Fall 2020 - Spring 2023)ShanghaiTech University
-- B. Eng.,(Fall 2015 - Spring 2019) Harbin Institute of Technology 
+**WANG Yizhu** (Fall 2023-)
+- Ph.D. (Fall 2023- ) University of Macau
+- M.Sc, Nanyang Technological University
+- B.Eng., Hunan University
+
 
