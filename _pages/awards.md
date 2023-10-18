@@ -5,20 +5,16 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **Young Scientist Award (2023)** 
-*Awarded by the Photonics and Electromagnetics Research Symposium (PIERS)in Prague,Czech Republic*
+- **Best Student Paper Award (2023)** 
+*Awarded by the International Conference on Power and Renewable Energy (ICPRE)*
 
-- **Young Scientist Award (2021)** 
-*Awarded by the International Applied Computational Electromagnetics Society Symposium in Chengdu,China (ACES-China)*
+- **Best Paper Award (2022)** 
+*Awarded by the International Conference on Advances in Power System Control, Operation and Management*
 
-- **Best Student Paper Award (2018)**
-*Awarded by the Photonics and Electromagnetics Research Symposium (PIERS)in Toyama,Japan*
+- **Best Paper Award (2021)** 
+*Awarded by the IEEE IAS Industrial and Commercial Power System Asia*
 
-- **Best Student Paper Award (2017)**
-*Awarded by the International Applied Computational Electromagnetics Society Symposium (ACES)in Firenze,Italy*
+- **Best Paper Bronze (2020)**
+*Awarded by the International Conference on Power Electronics Systems and Applications*
 
-- **Best Student Paper Award (2016)**
-*Awarded by the 17th IEEE MACAU/HK AP/MTT Postgraduate Conference in Macau SAR,China*
 
-- **Certificate of Merit (2014)**
-*Awarded by the Hong Kong U-21 IoT Awards*
