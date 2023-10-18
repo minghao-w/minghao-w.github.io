@@ -30,4 +30,8 @@ author_profile: true
 - M.Sc, Nanyang Technological University
 - B.Eng., Hunan University
 
+- **HOU YU** (Fall 2023-)
+- Ph.D. (Fall 2023- ) University of Macau
+- B. Eng., Wuhan University
+
 
