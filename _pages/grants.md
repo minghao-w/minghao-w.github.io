@@ -15,4 +15,4 @@ author_profile: true
 6.	**Research Institute for Smart Energy (RISE) Strategic Supporting Scheme**, 01/2022 to 12/2023, HKD$ 500,000
 
 **Major Competitive Projects as Co-Investigator or Co-Principle Investigator**
-1. **The Hong Kong and Macau Joint Inter-Institutional Research Scheme, China Southern Power Grid Company Ltd.**, 07/2022 to 12/2024, RMB$ 3573,000
+1. **The Hong Kong and Macau Joint Inter-Institutional Research Scheme, China Southern Power Grid Company Ltd.**, 07/2022 to 12/2024, RMB$ 3,573,000
