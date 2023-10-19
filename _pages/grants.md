@@ -12,7 +12,6 @@ author_profile: true
 3.	**Guangdong Basic and Applied Basic Research Fund (HKSAR)**
 4.	**Environment and Conservation and Woo Wheelock Green Fund (HKSAR)**
 5.	**Environment and Conservation Fund (HKSAR)**
-6.	**RISE Strategic Supporting Scheme**
 
 **Major Competitive Projects as Co-Investigator or Co-Principle Investigator**
 1. **The Hong Kong and Macau Joint Inter-Institutional Research Scheme, China Southern Power Grid Company Ltd.**
