@@ -10,7 +10,7 @@ author_profile: true
 1.	**National Natural Science Foundation of China**
 2.	**Innovation and Technology Support Programme (HKSAR)**
 3.	**Environment and Conservation and Woo Wheelock Green Fund (HKSAR)**
-4.	**Guangdong Basic and Applied Basic Research Fund (HKSAR)**
+4.	**Guangdong Basic and Applied Basic Research Fund**
 5.	**Environment and Conservation Fund (HKSAR)**
 
 **Major Competitive Projects as Co-Investigator or Co-Principle Investigator**
