@@ -16,7 +16,7 @@ author_profile: true
 - Ph.D. (Fall 2021- ) The Hong Kong Polytechnical University
 - B. Eng., Zhejiang University
 
-**SU Xinyang** (Fall 2022-)
+**XU Zixuan** (Fall 2022-)
 - Ph.D. (Spring 2022- ) The Hong Kong Polytechnical University
 - B. Eng., Harbin Institute of Technology
 
