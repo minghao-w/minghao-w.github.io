@@ -4,6 +4,8 @@ title: "Award and Certificate"
 permalink: /awards/
 author_profile: true
 ---
+- **Best Student Paper Award (2024)** 
+*Awarded by the 2024 IEEE International Conference on DC Technology and Systems & IEEE PES China Satellite Technical Committee-DC Power System Annual Meeting*
 
 - **深圳市优秀科技学术论文 (2023)** 
 *Awarded by Shenzhen association for science and technology*
