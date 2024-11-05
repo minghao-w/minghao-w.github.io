@@ -7,35 +7,38 @@ author_profile: true
 
 ## Ph.D. Students
 
-**CHAI Junwei** (Fall 2021-)
-- Ph.D. (Fall 2021- ) The Hong Kong Polytechnical University
+**CHAI Junwei** (09, 2021-06, 2024) 
+- Ph.D. The Hong Kong Polytechnical University
 - M. Phil, Zhejiang University
 - B. Eng., Beijing Institute of Technology
 
-**LI Zhan** (Fall 2021-)
-- Ph.D. (Fall 2021- ) The Hong Kong Polytechnical University
+**LI Zhan** (09, 2021-)
+- Ph.D. (09, 2021- ) The Hong Kong Polytechnical University
 - B. Eng., Zhejiang University
 
-**XU Zixuan** (Spring 2022-)
-- Ph.D. (Spring 2022- ) The Hong Kong Polytechnical University
+**XU Zixuan** (01, 2022-)
+- Ph.D. (01, 2022- ) The Hong Kong Polytechnical University
 - B. Eng., Harbin Institute of Technology
 
-**SU Xinyang** (Fall 2023-)
-- Ph.D. (Fall 2023- ) The Hong Kong Polytechnical University
+**SU Xinyang** (09, 2023-)
+- Ph.D. (09, 2023- ) The Hong Kong Polytechnical University
 - M. Phil., Xi'an Jiaotong University (​Qian Xuesen Honors College)
 - B. Eng., Xi'an Jiaotong University
 
-**WANG Yizhu** (Fall 2023-)
-- Ph.D. (Fall 2023- ) University of Macau
+**WANG Yizhu** (09, 2023-)
+- Ph.D. (09, 2023-) University of Macau
 - M.Sc, Nanyang Technological University
 - B.Eng., Hunan University
 
-**HOU Yu** (Fall 2023-)
-- Ph.D. (Fall 2023- ) University of Macau
+**HOU Yu** (09, 2023-)
+- Ph.D. (09, 2023- ) University of Macau
 - B. Eng., Wuhan University
 
-**LIU Xiaoyi** (Fall 2023-)
-- Ph.D. (Fall 2023- ) University of Macau
+**LIU Xiaoyi** (09, 2023-)
+- Ph.D. (09, 2023- ) University of Macau
 - B.Eng., South China University of Technology
 
+**ZENG Jing** (09, 2024-)
+- Ph.D. (09, 2024- ) University of Macau
+- B. Eng., Harbin Institute of Technology
 
