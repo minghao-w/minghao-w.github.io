@@ -13,7 +13,7 @@ author_profile: true
 5.	**Environment and Conservation Fund (HKSAR)**
 6.	**RISE Strategic Supporting Scheme**
 7.	**FDCT Funding Scheme for Scientific Research and Innovation**
-8.	**FDCT-MOST Joint Scientific Research Project Funding Scheme (国家重点研发计划专项)**
+
 
 **Major Competitive Projects as Co-Investigator or Co-Principle Investigator**
 1. **The Hong Kong and Macau Joint Inter-Institutional Research Scheme, China Southern Power Grid Company Ltd.**
